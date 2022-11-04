@@ -8,9 +8,10 @@ Moreover, we demonstrate that entity and document relevance are positively corre
 We go on to construct topic-specific KGs using retrieval and evaluate using CODEC's "golden graphs".
 Lastly, we point to future work, including adaptive KG retrieval algorithms and GNN-based  weighting methods, while highlighting key challenges such as high-quality data, information extraction recall, and the size and sparsity of complex topic graphs.
 
-AKBC 2022 Workshop Paper: https://github.com/grill-lab/blob/main/paper/AKBC_workshop_paper.pdf 
+AKBC 2022 Workshop (Knowledge Graphs in Finance and Economics): https://github.com/grill-lab/blob/main/paper/AKBC_workshop_paper.pdf 
+
+SIGIR 2022 Paper (CODEC): https://arxiv.org/abs/2205.04546 
 
 <p align="center">
-    <img src="https://github.com/grill-lab/akbc-finance-kgs/blob/main/assets/topic_graph.png" alt="CODEC Diagram" width="700" height="275" >
+    <img src="https://github.com/grill-lab/akbc-finance-kgs/blob/main/assets/topic_graph.png" alt="CODEC Diagram" width="700" height="500" >
 
-CODEC SIGIR 2022 Paper: https://arxiv.org/abs/2205.04546 
