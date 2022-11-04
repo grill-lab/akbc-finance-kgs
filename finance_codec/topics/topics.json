@@ -1,0 +1,72 @@
+{
+    "economics-1": {
+        "Domain": "finance",
+        "Query": "How has the UK's Open Banking Regulation benefited challenger banks?",
+        "Guidelines": "UK\u2019s Open Banking regulation, which has parallels to the EU\u2019s second payment service directive (PSD2), went live in January 2018. This piece of legislation \u201cwill require banks to open their payments infrastructure and customer data assets to third parties\u201d. As a result, banks no longer have a monopoly on user data if clients grant permission. \n\nChallenger banks are small, recently created retail banks that compete directly with the longer-established banks in the UK. Specifically, seeking market share from the \"big four\" UK retail banks (Barclays, HSBC, Lloyds Banking Group, and NatWest Group). The banks distinguish themselves from the historic banks by modern financial technology practices, such as online-only operations, that avoid the costs and complexities of traditional banking. The largest UK-operating challenger banks include Atom Bank, Revolut, Starling, N26, and Tide.\n\nRelevant documents and entities will discuss how challenger banks have used open banking to develop new products or capture market share from traditional retail banks in the UK."
+    },
+    "economics-2": {
+        "Domain": "finance",
+        "Query": "What technological challenges does Bitcoin face to becoming a widely used currency?",
+        "Guidelines": "Bitcoin is a decentralized digital currency, without a central bank or single administrator, that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries.\n\nSince its inception in 2008, Bitcoin has seen a huge increase in both valuation and transactions. This included being controversially introduced as El Salvador national currency. \n\nThere are technology challenges bitcoin faces to being widely used for transactions. Including but not limited to: (1) carbon footprint for bitcoin mining, (2) cost and speed of payments, (3) technology-driven excessive volatility, and (4) security. In fact, other cryptocurrencies might be much better suited (Ether, Ripple, or Elon Musk argues DOGE)."
+    },
+    "economics-3": {
+        "Domain": "finance",
+        "Query": "Why are many commentators arguing NFTs are the next big investment category?",
+        "Guidelines": "A non-fungible token (NFT) is a non-interchangeable unit of data stored on a blockchain, like Ethereum. NFTs can also be associated with reproducible digital files such as photos, videos, and audio. These include cartoon apes or Beeple\u2019s $69 million digital collage. NFTs use a digital ledger to provide a public certificate of authenticity or proof of ownership.\n\nCreators are excited to engage with a new medium to share and monetize their work via NFTs, one that can encompass a broad range of digital and real-world implementations. While many high-profile investors feel this new asset class offers potentially high returns over the coming years. Yet, with any new asset class, especially combined with cryptocurrencies, many see these as extremely high-risk investments."
+    },
+    "economics-4": {
+        "Domain": "finance",
+        "Query": "Why has value investing underperformed growth over the last decade?",
+        "Guidelines": "Value investing is the art of buying stocks that trade at a significant discount to their intrinsic value (i.e. cheap valuation metrics, typically low multiples of their profits or assets). Investors believe the price will trend toward this intrinsic value over the medium-to-long term.\n\nGrowth investing is an investment style that invests in growth stocks\u2014that is, newer companies or sectors whose earnings are expected to increase at an above-average rate compared to their industry sector or the overall market.\n\nOver the last decade, large tech companies (growth companies) have seen massive growth, i.e. Facebook, Alphabet, Amazon, Apple and Netflix \u2013 once named FAANG stocks. Investing in emerging industries and technologies, such as Tesla for electric cars, have generally outperformed more traditional sectors and companies."
+    },
+    "economics-6": {
+        "Domain": "finance",
+        "Query": "Why are some economists sceptical about the EU's monetary union without a shared fiscal system?",
+        "Guidelines": "The euro arose from the 1991 Maastricht Treaty, in which the 12 original member countries of the European Community (now the European Union) created an economic and monetary union and a corresponding common unit of exchange. This was intended to reduce trade barriers within Europe and encourage economic integration and growth.\n\nHowever, many economists argue that the euro is doomed to fail without a shared fiscal system, i.e. individual countries have sole spending, taxation, and debts. There was also very different fiscal ideologies between German rigour and Southern flexibility. Documents, entities, or events are relevant if they highlight economic concerns about the EU's monetary union within a shared fiscal system."
+    },
+    "economics-8": {
+        "Domain": "finance",
+        "Query": "How is the push towards electric cars impacting the demand for raw materials?",
+        "Guidelines": "Mass adoption of electric vehicles (EVs) is expected in the years ahead. This shift has, and will continue to have, a significant impact on demand for specific raw materials. For example, lithium, nickel and cobalt will increase due to battery demand. While oil-based vehicles will decline in the coming decades, which will reduce the need for oil. Any document or entity that discusses the past and future demand shifts of raw materials are relevant."
+    },
+    "economics-12": {
+        "Domain": "finance",
+        "Query": "What are the common problems or criticisms aimed at public sector enterprises?",
+        "Guidelines": "In economic theory, private enterprises and markets driven by supply and demand are advantageous due to efficient market hypotheses. However, there is clearly a need for some public sector enterprises to deliver goods and services that the government felt would not be delivered otherwise. For example, utilities, regulation, advice,  transport, broadcasting, etc.\n\nSome economic problems include (1) funding of are political rather than on rational, (2) utilization of services, (3) inefficiency, (4) poor technology, and (5) managerial failure. A good answer should cover several problems in detail will examples and explanations."
+    },
+    "economics-13": {
+        "Domain": "finance",
+        "Query": "Why do many economists argue against fixed exchange rates?",
+        "Guidelines": "Fixed exchange rates can bring benefits in reducing uncertainty due to minimising fluctuations in the currency movements, giving greater confidence for firms to invest (especially exporters). This can be especially appealing for developing countries with highly volatile currencies. The hong kong dollar is perhaps the most famous fixed exchange rate currently.\n\nHowever, non-fixed currencies naturally reflect the demand and supply of two individual currencies, driven by economic prospects, trade, inflation, and interest rates. To keep currencies artificially fixed may be difficult and require high-interest rates and deflating the economy. In recent years, there have been many examples where currencies are forced out of the fixed exchange rate, i.e. UK leaving the European Exchange Rate Mechanism (ERM) in 1992 or Swiss franc in 2015."
+    },
+    "economics-17": {
+        "Domain": "finance",
+        "Query": "Why is scaling a hardware business more capital intensive than a software business?",
+        "Guidelines": "Hardware businesses are said to be hard for a reason. Hardware businesses often require specialized equipment and expensive components to develop an early-stage prototype. There will often need to be further investment in tools and the supply chain to get unit economics down. If something goes wrong with the product, the business will need to fix it (either recall or site visit) to alleviate the issue. \n\nOn the other hand, most software businesses are based largely on standard code bases that can be written on a computer. Early prototypes can be developed quickly and iteration can be done daily. If there is a bug in a launched product, this can be patched remotely."
+    },
+    "economics-18": {
+        "Domain": "finance",
+        "Query": "Was the crash that followed the dot-com bubble an overreaction considering the ultimate success of the internet?",
+        "Guidelines": "The dot-com buddle from 1995-2000 saw incredible growth in stocks that were considered to have anything to do with the internet. NASDAQ rose 400% only to fall 78% from its peak by 2002. Several high-profile failures included Pets.com, Boo.com, Woldcom, and Global Crossing. However, many internet-based companies survived and went on to thrive, i.e. eBay, Amazon, Qualcomm, Cisco Systems. Venture Capital pulled back from the internet space for a period.\n\nHowever, with FANNG stocks and incredible software/internet-based companies performance from the mid-2000s until the present day, it could be argued that the direction of the dot-com bubble was absolutely correct. Nonetheless, the magnitude of equity growth and capital allocation to companies with limited commercial value was irrational and required a market correction."
+    },
+    "economics-19": {
+        "Domain": "finance",
+        "Query": "Is diversification the best strategy to get rich?",
+        "Guidelines": "Diversification, i.e. spreading your investments across multiple assets classes and exposures, has long been sound investment advice to reduce the volitatly of your portfolio. This is supported by many economics and investment professionals to ensure one protects and grows one's assets over a long period.\n\nHowever, if you are looking to get \"rich\" it could be argued taking several high-risk bets might be more effective. For example, early-stage investors in startups, founder equity (Elon Musk, Bill Gates, etc.), options trading, cryptocurrencies. These types of assets allocation are far riskier in terms of returns, i.e. you could lose most of your wealth. However, if the goal is to get rich regardless of the consequences, this may be a rational strategy."
+    },
+    "economics-20": {
+        "Domain": "finance",
+        "Query": "Are private capital markets so plentiful that there is no need for startups to IPO?",
+        "Guidelines": "Private capital markets have been increasingly attracting more money, i.e. the rise in venture capital and private equity asset classes. Several decades ago, fast-growing startups \"had\" to IPO relatively early due to capital requirements. Now, startups can raise billions of dollars in private markets without the risk or transparency of an IPO (Revolut, Uber, We Work, etc.). Nonetheless, IPO-ing is still extremely popular - even if happening later - IPOs allow early investors/founders to exit and institutional investors to provide larger amounts of capital to fund growth."
+    },
+    "economics-21": {
+        "Domain": "finance",
+        "Query": "How much of a threat are ETFs to actively-managed Asset Managers?",
+        "Guidelines": "ETFs have become increasingly popular as a low-cost means of tracking a particular index or product. However, active-managed funds have higher fees, and although some do beat the market through stock selection or asset allocation, many do not. As a result, it's expected ETFs will continue to gain popularity; however, there will likely always be demand for actively-managed for specific strategies. As a result, asset managers will need to find new ways to stand out and rely on strong track records."
+    },
+    "economics-23": {
+        "Domain": "finance",
+        "Query": "Offering non-accounting services arguably creates a conflict of interest for the Big Four. Is this the reason for their inability to uncover recent financial scandals?",
+        "Guidelines": "The Big Four are the four largest global accounting firms that dominate corporate accounting, i.e. Deloitte, Ernst & Young (EY), PricewaterhouseCoopers (PwC), and Klynveld Peat Marwick Goerdeler (KPMG). As well as offering accounting services, these firms also over other many higher-margin services such as tax, consultancy, and technology services (~80% revenue). \n\nInternal controls (firewalls, departments, etc.) are meant to prohibit any cooperation between audit and non-audit services in winning customer contracts or favour. However, critics would argue that this does not go far enough and can lead to less rigorous audits, calling for the Big Four to be broken up. Critics highlight poor practices in recent accounting scandals, including  Wirecard, Carillion, Satyam Computer Services, South Africa examples, etc. \n\nHowever, it should be highlighted that even if the Big Four were separated, this would not necessarily lead to no accounting scandals. Some fraudulent practices may be hard to catch even if objective and following best practices. Also, there are other areas of possible conflict of interest that non-accounting work, including how the corporate hires the auditor."
+    }
+}

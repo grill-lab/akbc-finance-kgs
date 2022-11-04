@@ -1,0 +1,127 @@
+economics-8	electric vehicles lithium, nickel and cobalt
+economics-8	electric vehicles shortage raw materials
+economics-8	electric cars battery on resources
+economics-8	impact of electric cars supply chain
+economics-8	electric cars and shift away from oil and gas
+economics-8	China and electric cars raw materials
+economics-8	Electric vehicles and Democratic Republic of Congo
+economics-8	Electric car and semiconductor shortage
+economics-8	How is the push towards electric cars impacting the demand for raw materials?
+economics-13	fixed vs floating exchange rates
+economics-13	currency peg crises
+economics-13	hong kong dollar fixed exchange rate
+economics-13	Milton Friedman and floating currency rates
+economics-13	Bretton Woods and floating exchange rates
+economics-13	pound stirling and the European Exchange Rate Mechanism (ERM) crash
+economics-13	Swiss franc in 2015 crash
+economics-13	benefits of floating exchange rates
+economics-13	Euro and issues with fixed exchange rates
+economics-13	Keynesian economics and fixed exchange rates
+economics-13	Peso pegged to dollar issues
+economics-13	Why do many economists argue against fixed exchange rates?
+economics-1	UK Challenger banks market share
+economics-1	UK Challenger banks
+economics-1	How has the UK's Open Banking Regulation benefited challenger banks?
+economics-1	United Kingdom new open banking products
+economics-1	UK Challenger banks open banking (Atom Bank, Revolut, Starling, N26, and Tide)
+economics-1	UK Open Banking impact on traditional banks (Barclays, HSBC, Lloyds Banking Group, and NatWest Group)
+economics-1	PSD2 UK challenger banks
+economics-1	United Kingdom banking marketplace
+economics-1	United Kingdom open banking regulation and startup funding
+economics-1	United kingdom open banking products
+economics-2	What technological challenges does Bitcoin face to becoming a widely used currency?
+economics-2	Bitcoin quantum threat
+economics-2	Bitcoin hacking and cyber attacks
+economics-2	Bitcoin fiat currency
+economics-2	Bitcoin El Salvador
+economics-2	Bitcoin environment impacts
+economics-2	Bitcoin transaction costs and time
+economics-3	new ways NFT hold value and can revolutionise the economy
+economics-3	Why are many commentators arguing NFTs are the next big investment category?
+economics-3	Why are non fungible tokens (NFT) a high risk investment
+economics-3	non fungible tokens and the future of banking
+economics-3	The disadvantages of non fungible tokens (NFT)
+economics-3	Environmental effects of non fungible tokens (NFT)
+economics-3	non fungible tokens and fintech
+economics-4	Why has value investing underperformed growth over the last decade?
+economics-4	why did value stocks outperform growth in the past?
+economics-4	what's better between value investing and growth investing?
+economics-4	why has value investing underperformed
+economics-4	has growth investing outperformed value investing in the past?
+economics-4	can growth and value investing be combined
+economics-4	is value investing riskier than growth investing?
+economics-4	what are the pros and cons of growth investing?
+economics-6	challenges of adopting a european fiscal union
+economics-6	Why are some economists sceptical about the EU's monetary union without a shared fiscal system?
+economics-6	Why are some countries not part of the european monetary union?
+economics-6	Why is a fiscal union an important consideration in the development of an economic union?
+economics-6	why does europe need a fiscal union?
+economics-6	How does being a member of the EU influence the fiscal policy of member states?
+economics-6	alternatives to a fiscal union to support the european monetary union
+economics-6	european fiscal union: economic rationale and design challenges
+economics-12	What are the common problems or criticisms aimed at public sector enterprises?
+economics-12	John Maynard Keynes
+economics-12	GovTech
+economics-12	why are government companies inefficient
+economics-12	the problem with Quasi-Public Corporations
+economics-12	Bureaucracy
+economics-12	political bias in publicly owned companies
+economics-12	political bias in public enterprise
+economics-12	how can marketization improve public sector companies
+economics-12	what are the problems with public sector companies
+economics-12	keynes and hayek
+economics-12	public sector companies struggle
+economics-12	kaynes
+economics-12	Government waste
+economics-12	Quasi-Public Corporation
+economics-12	Friedrich hayek
+economics-17	Why is scaling a hardware business more capital intensive than a software business?
+economics-17	Non Recurring Cost
+economics-17	why is making hardware harder than making software
+economics-17	lessons from hardware companies
+economics-17	why making hardware is hard
+economics-17	supply chain for hardware vs software
+economics-17	difficulties in logistics in hardware companies
+economics-17	the difficulties when scaling hardware
+economics-17	Software as a service
+economics-17	infrastructure as a service
+economics-17	platform-as-a-service
+economics-18	will the tech bubble burst
+economics-18	Does the tech sector currently resemble the dotcom bubble
+economics-18	are tech stocks in a bubble
+economics-18	Was the crash that followed the dot-com bubble an overreaction considering the ultimate success of the internet?
+economics-18	FAANG
+economics-18	tech boom vs dot-com boom
+economics-18	web 2.0 bubble
+economics-18	cryptocurrency bubble
+economics-19	best asset allocation to get rich
+economics-19	Is diversification the best strategy to get rich?
+economics-19	should you diversify your porfolio
+economics-19	how effective is portfolio diversification
+economics-19	why nobody likes diversification
+economics-19	does diversification increase expected return
+economics-19	high risk versus low risk investment strategies
+economics-19	modern portfolio theory
+economics-19	how does diversification contribute to wealth
+economics-20	high valuations of private startups
+economics-20	Are private capital markets so plentiful that there is no need for startups to IPO?
+economics-20	Why startups don't IPO?
+economics-20	Venture capital and private equity having lots of capital
+economics-20	What sovereign wealth funds do for startup valuations
+economics-20	IPO versus venture capital
+economics-20	risk of startup IPOs?
+economics-20	tiger global, sequoia, and softbank
+economics-21	why do actively managed funds rarely beat the market?
+economics-21	are actively managed asset managers worth it?
+economics-21	How much of a threat are ETFs to actively-managed Asset Managers?
+economics-21	How often do actively managed funds outperform passive funds?
+economics-21	passive vs active managed funds
+economics-21	when are actively managed funds worth it
+economics-23	accounting scandals big four
+economics-23	Offering non-accounting services arguably creates a conflict of interest for the Big Four. Is this the reason for their inability to uncover recent financial scandals?
+economics-23	should auditors provide accounting services?
+economics-23	why the big four accounting firms should be split
+economics-23	why the big four should be split
+economics-23	conflict of interest in auditing big four
+economics-23	accounting scandals
+economics-23	big four conflict of interest
