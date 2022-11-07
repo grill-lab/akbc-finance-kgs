@@ -1,5 +1,7 @@
 # Topic-Specific KGs for Complex Finance Topics 
 
+### Abstract
+
 Across the financial domain, researchers answer complex questions by extensively "searching" for relevant information to generate long-form reports or make investment decisions.
 This paper discusses automating the construction of topic-specific document and entity knowledge graphs (KGs) for complex research topics.
 We focus on the CODEC dataset, where domain experts (1) create challenging questions, (2) construct long natural language answers, and (3) iteratively search and assess the relevance of documents and entities.
@@ -8,10 +10,40 @@ Moreover, we demonstrate that entity and document relevance are positively corre
 We go on to construct topic-specific KGs using retrieval and evaluate using CODEC's "golden graphs".
 Lastly, we point to future work, including adaptive KG retrieval algorithms and GNN-based  weighting methods, while highlighting key challenges such as high-quality data, information extraction recall, and the size and sparsity of complex topic graphs.
 
-AKBC 2022 Workshop (Knowledge Graphs in Finance and Economics): https://github.com/grill-lab/akbc-finance-kgs/blob/main/paper/AKBC_Workshop_paper.pdf
-
-SIGIR 2022 Paper (CODEC): https://arxiv.org/abs/2205.04546 
-
 <p align="center">
     <img src="https://github.com/grill-lab/akbc-finance-kgs/blob/main/assets/topic_graph.png" alt="CODEC Diagram" width="700" height="500" >
+
+
+### Citation
+
+If referencing workshop findings on finance:
+```
+@inproceedings{mackie2022akbcworkshop,\
+ title={Query-Specific KGs for Complex Finance Topics},\
+ author={Mackie, Iain and Dalton, Jeffery},\
+ booktitle={AKBC 2022 Workshop, Knowledge Graphs in Finance and Economics},
+ year={2022}\
+}
+```
+
+If referencing CODEC dataset:
+```
+@inproceedings{mackie2022codec,\
+ title={CODEC: Complex Document and Entity Collection},\
+ author={Mackie, Iain and Owoicho, Paul and Gemmell, Carlos and Fischer, Sophie and MacAvaney, Sean and Dalton, Jeffery},\
+ booktitle={Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+ year={2022}\
+}
+```
+
+### Links
+
+
+AKBC 2022 Workshop paper: <a href="https://github.com/grill-lab/akbc-finance-kgs/blob/main/paper/AKBC_Workshop_paper.pdf">link</a>
+
+AKBC 2022 Workshop powerpoint: <a href="https://github.com/grill-lab/akbc-finance-kgs/blob/main/presentation/AKBC-mackie.pdf">link</a>
+
+AKBC 2022 Workshop finance subset:  <a href="https://github.com/grill-lab/akbc-finance-kgs/blob/main/finance_codec">link</a>
+
+SIGIR 2022 resourse paper (CODEC): <a href="https://arxiv.org/abs/2205.04546">link</a>
 
