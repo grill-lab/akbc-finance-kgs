@@ -33,11 +33,11 @@ If referencing CODEC dataset:
 ### Links
 
 
-AKBC 2022 Workshop paper: <a href="https://github.com/grill-lab/akbc-finance-kgs/blob/main/paper/AKBC_Workshop_paper.pdf">link</a>
+AKBC 2022 Workshop paper: <a href="http://arxiv.org/abs/2211.04142">link</a>
 
 AKBC 2022 Workshop powerpoint: <a href="https://github.com/grill-lab/akbc-finance-kgs/blob/main/presentation/AKBC-mackie.pdf">link</a>
 
-AKBC 2022 Workshop finance subset:  <a href="https://github.com/grill-lab/akbc-finance-kgs/blob/main/finance_codec">link</a>
+AKBC 2022 Workshop finance dataset subset:  <a href="https://github.com/grill-lab/akbc-finance-kgs/blob/main/finance_codec">link</a>
 
 SIGIR 2022 resourse paper (CODEC): <a href="https://arxiv.org/abs/2205.04546">link</a>
 
